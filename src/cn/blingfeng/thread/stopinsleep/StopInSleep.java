@@ -1,5 +1,9 @@
 package cn.blingfeng.thread.stopinsleep;
-//stop in sleep
+
+/**
+ * @author blingfeng
+ * @desc stop in sleep
+ */
 public class StopInSleep {
     public static void main(String []args){
         Mythread mythread = new Mythread();
